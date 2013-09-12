@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Set_corevars feature.
+ */
+
+include_once 'set_corevars.features.inc';
