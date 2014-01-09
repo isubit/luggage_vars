@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * set_corevars.features.inc
+ * luggage_vars.features.inc
  */
 
 /**
  * Implements hook_ctools_plugin_api().
  */
-function set_corevars_ctools_plugin_api($module = NULL, $api = NULL) {
+function luggage_vars_ctools_plugin_api($module = NULL, $api = NULL) {
   if ($module == "strongarm" && $api == "strongarm") {
     return array("version" => "1");
   }

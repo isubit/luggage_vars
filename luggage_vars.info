@@ -1,10 +1,10 @@
-name = Set_corevars
+name = luggage_vars
 description = Intended for one-time use to set variables
 core = 7.x
-package = Features
+package = Luggage
 version = 7.x-1.0
-project = set_corevars
-github = https://raw.github.com/ISUITC/set_corevars/master/set_corevars.info
+project = luggage_vars
+github = https://raw.github.com/ISUITC/luggage_vars/master/luggage_vars.info
 dependencies[] = ctools
 dependencies[] = strongarm
 features[ctools][] = strongarm:strongarm:1
