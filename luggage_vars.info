@@ -33,4 +33,4 @@ features[variable][] = user_mail_status_canceled_body
 features[variable][] = user_mail_status_canceled_notify
 features[variable][] = user_mail_status_canceled_subject
 features[variable][] = user_register
-github = https://raw.github.com/ISUITC/luggage_vars/master/luggage_vars.info
+github = https://raw.github.com/isubit/luggage_vars/master/luggage_vars.info
